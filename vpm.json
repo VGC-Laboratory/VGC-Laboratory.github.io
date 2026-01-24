@@ -11,7 +11,7 @@
                     "version": "0.0.1",
                     "displayName": "VGC Debug Tools",
                     "description": "A collection of debug tools specifically designed for avatar creation in Unity.",
-                    "unity": "2022.3.22f1",
+                    "unity": "2022.3",
                     "author": {
                         "name": "VGC"
                     },
