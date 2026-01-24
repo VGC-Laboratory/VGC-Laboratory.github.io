@@ -1,0 +1,23 @@
+{
+    "name": "VGC Debug Tools Repository",
+    "id": "com.vgc.vpm-repository",
+    "url": "https://vgc-laboratory.github.io/vpm.json",
+    "author": "VGC-Laboratory",
+    "packages": {
+        "com.vgc.debug-tools": {
+            "versions": {
+                "0.0.1": {
+                    "name": "com.vgc.debug-tools",
+                    "version": "0.0.1",
+                    "displayName": "VGC Debug Tools",
+                    "description": "A collection of debug tools specifically designed for avatar creation in Unity.",
+                    "unity": "2022.3.22f1",
+                    "author": {
+                        "name": "VGC"
+                    },
+                    "url": "https://github.com/VGC-Laboratory/VGC_DebugTools/releases/download/v0.0.1/com.vgc.debug-tools-0.0.1.zip"
+                }
+            }
+        }
+    }
+}
