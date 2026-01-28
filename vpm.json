@@ -6,7 +6,7 @@
     "packages": {
         "com.vgc.debug-tools": {
             "versions": {
-                "0.0.1": {
+                "0.0.2": {
                     "name": "com.vgc.debug-tools",
                     "version": "0.0.2",
                     "displayName": "VGC Debug Tools",
